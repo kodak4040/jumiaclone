@@ -2,6 +2,7 @@ SUMMARY REPORT OF PROJECT
 
 This project is an E-commrece digital platform that was built using a similar UI/UX of Jumia, you can call it jumiacloned project.
 
+
 Steps to run the project
 1) clone the project
 2) install virtual environment using py -m venv myenv
